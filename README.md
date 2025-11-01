@@ -134,7 +134,7 @@ This project demonstrates proficiency in:
 
 - HANNAN ALI MALLICK
 - LinkedIn: https://www.linkedin.com/in/hannanmallick/
-- Email: hannanmallick07.com
+- Email: hannanmallick07@gmail.com
 
 ## 📄 License
 
