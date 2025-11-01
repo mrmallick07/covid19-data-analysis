@@ -1,8 +1,23 @@
 # COVID-19 Data Analysis & Prediction
 
+# COVID-19 Data Analysis & Prediction
+
+![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Status](https://img.shields.io/badge/Status-Complete-success.svg)
+![Contributions](https://img.shields.io/badge/Contributions-Welcome-orange.svg)
+
 ## 📊 Project Overview
 
 A comprehensive data science project analyzing COVID-19 trends across multiple countries with a focus on India. This project demonstrates end-to-end data science skills including data collection, cleaning, exploratory data analysis, visualization, and machine learning predictions.
+
+### Key Visualizations
+
+![COVID-19 Analysis Dashboard](visualizations/covid_india_analysis.png)
+*India-specific COVID-19 Analysis Dashboard*
+
+![Prediction Model](visualizations/covid_predictions.png)
+*Machine Learning Predictions vs Actual Cases*
 
 ## 🎯 Objectives
 
@@ -120,6 +135,7 @@ This project demonstrates proficiency in:
 - Machine learning model development
 - Model evaluation and comparison
 - Data-driven insights extraction
+
 
 ## 📝 Future Improvements
 
